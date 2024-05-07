@@ -1,4 +1,4 @@
 function greetUser() {
-  var name = prompt("Please enter your name:");
+  var name = prompt("Enter Your Name :- ");
   alert("Hello, " + name + "!");
 }
